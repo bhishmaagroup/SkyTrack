@@ -2,7 +2,7 @@
 
 **SkyTrack** is a modern real-time flight tracking web application that helps users quickly search and monitor flights using a flight number, airline, departure airport, or arrival airport. The platform provides live flight information, schedules, airport details, and an intuitive user experience.
 
-🌐 **Live Demo:** [flight.bhishmaagroup.in](https://flight.bhishmaagroup.in?utm_source=chatgpt.com)
+🌐 **Live Demo:** [flight.bhishmaagroup.in](https://flight.bhishmaagroup.in)
 
 ---
 
