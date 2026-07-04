@@ -1,6 +1,6 @@
-# ✈️ SkyTrack – Where Is My Flight
+# ✈️ AirTracker – Where Is My Flight
 
-**SkyTrack** is a modern real-time flight tracking web application that helps users quickly search and monitor flights using a flight number, airline, departure airport, or arrival airport. The platform provides live flight information, schedules, airport details, and an intuitive user experience.
+**AirTracker** is a modern real-time flight tracking web application that helps users quickly search and monitor flights using a flight number, airline, departure airport, or arrival airport. The platform provides live flight information, schedules, airport details, and an intuitive user experience.
 
 🌐 **Live Demo:** [flight.bhishmaagroup.in](https://flight.bhishmaagroup.in)
 
@@ -24,11 +24,11 @@
 
 ---
 
-# 💡 Why SkyTrack?
+# 💡 Why AirTracker?
 
 Finding accurate flight information should be simple.
 
-SkyTrack brings essential flight information into one clean dashboard, allowing users to quickly locate flights, view schedules, monitor flight status, and explore airport information with an intuitive interface.
+AirTracker brings essential flight information into one clean dashboard, allowing users to quickly locate flights, view schedules, monitor flight status, and explore airport information with an intuitive interface.
 
 ---
 
@@ -103,7 +103,7 @@ Flight Tracker, Where Is My Flight, Live Flight Tracker, Flight Status, Flight S
 # 📂 Project Structure
 
 ```text
-SkyTrack/
+AirTrack/
 │
 ├── static/
 ├── templates/
